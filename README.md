@@ -4,3 +4,5 @@ after killing all three, they respawn signaling the start of a new level. Meteor
 Every time a new level is reached, their HP, damage, and fire rate increases and an extra meteor spawns per rotation.
 The game ends when the player is out of HP, making everything on the screen disappear and displaying a game over 
 message.
+
+Sprites are from Kenney's Space Shooter Redux.
